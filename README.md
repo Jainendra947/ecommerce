@@ -1,1 +1,3 @@
-# ecommerce
+This is my first ecommerce project i would like to share all my project links and codes to this github to help as many students i can kindly visit onces to each and every section of my files uploaded below........
+
+
